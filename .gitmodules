@@ -1,3 +1,6 @@
 [submodule "stackspot-springboot-basic"]
 	path = stackspot-springboot-basic
 	url = https://github.com/dantelacerda/stackspot-springboot-basic
+[submodule "stackspot-plugin-log"]
+	path = stackspot-plugin-log
+	url = https://github.com/dantelacerda/stackspot-plugin-log
