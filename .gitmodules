@@ -1,0 +1,3 @@
+[submodule "stackspot-springboot-basic"]
+	path = stackspot-springboot-basic
+	url = https://github.com/dantelacerda/stackspot-springboot-basic
