@@ -1,0 +1,1 @@
+# About stackspot-new-stack stack
